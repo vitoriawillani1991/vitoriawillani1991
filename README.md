@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science and analytics
 - 📫 How to reach me: vitoria.willani@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a lot of tattoos about Math, data science and cats 🐱 
+- ⚡ Fun fact: I have a lot of tattoos about math, data science and cats 🐱 
 
 
 <div style="display: inline_block"><br>
