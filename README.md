@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning data science and analytics
-- 📫 How to reach me: vitoria.willani@gmail.com
+- 🌱 I'm working on my data science skills, with an emphasis on machine learning and artificial intelligence.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a lot of tattoos about math, data science and cats 🐱 
 
