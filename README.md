@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm a Brazilian living in Canada :brazil: :canada:
-- 🌱 I'm working on my data science skills, with an emphasis on machine learning and artificial intelligence.
+- 🌱 Data Scientist with an emphasis on machine learning.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a lot of tattoos about math, data science and cats 🐱 
 
